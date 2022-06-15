@@ -1,0 +1,115 @@
+#Feliz {
+    color: burlywood;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    margin: auto;
+    
+}
+
+
+#img {
+    
+    border: 5px;
+    border-color: violet;
+    border-style: solid;
+
+}
+
+#body {
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+#boton {
+    color: black;
+    display: block;
+    width: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    border-radius: 100px;
+    margin: 200px 880px;
+    padding: 20px 33px;
+    background-color:burlywood;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+.h11 {
+    color: pink;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+.h111 {
+    margin: 30px;
+    border-radius: 100px;
+    padding: 20px 30px;
+    background-color: black;
+    color: pink;
+}
+
+
+.body {
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+
+.h3 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:xx-large;
+    color: coral;
+    text-align: left;
+    margin: 30px;
+    border-radius: 100px;
+    padding: 40px 40px;
+    background-color:hotpink;
+    color: black;
+}
+
+.h {
+    font-family: cursive;
+    font-size:xx-large;
+    color: coral;
+    text-align:center;
+    margin: 50px;
+    border-radius: 100px;
+    padding: 10px 20px;
+    background-color:hotpink;
+    color: black;
+
+}
+
+.h112 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.hh11 {
+    margin: 10px;
+    border-radius: 100px;
+    padding: 15px 30px;
+    color: black;
+    background-color: pink;
+
+    
+}
+
+
+.hhs11 {
+    margin: 10px;
+    border-radius: 100px;
+    padding: 15px 30px;
+    color: black;
+    background-color: pink;
+    font-size: medium , 50px;
+}
